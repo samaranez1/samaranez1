@@ -11,14 +11,7 @@
 
 [
 
-![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)
-
-](https://github.com/sponsors/samaranez1)
-[
-
-![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?logo=kofi&logoColor=white)
-
-](https://ko-fi.com/samuelaranez)
+![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaalogo=githubsponsors&logoColor=white)](https://github.com/sponsors/samaranez1)[![Ko-fi](https://img.shields.io/badge/SupportKo--fi-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/samuelaranez)
 
 
 
